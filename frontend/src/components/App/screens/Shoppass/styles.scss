@@ -1,0 +1,131 @@
+:local {
+  .pass {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 5rem;
+  }
+
+  .passLevel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+
+  .premium {
+    position: absolute;
+    height: 6rem;
+    width: 6rem;
+    left: 33%;
+  }
+
+  .free {
+    position: absolute;
+    right: 33%;
+  }
+
+  .level {
+    border-radius: 100%;
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+    margin-right: 2rem;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 20%;
+  }
+
+  .levelTile {
+    display: flex;
+    height: 6rem;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .progressBar {
+    position: absolute;
+    margin: auto;
+  }
+
+  .milestone {
+    background-color: #ee4d2d;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    width: 15.5rem;
+    height: 6rem;
+  }
+
+  .milestoneDiv {
+    position: absolute;
+    height: 6rem;
+    width: 15.5rem;
+    left: 33%;
+  }
+
+  .icon {
+    position: absolute;
+    height: 1.5rem;
+    width: 1.5rem;
+    left: 0;
+    top: 0;
+    z-index: 10;
+  }
+
+  .premiumIcon {
+    position: absolute;
+    height: 1.5rem;
+    width: 1.5rem;
+    right: 0;
+    top: 0;
+    z-index: 10;
+  }
+
+  .modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba($color: #ffff, $alpha: 0.5);
+    z-index: 20;
+  }
+
+  .modalContent {
+    background-color: white;
+  }
+
+  .modalHeader,
+  .modalFooter {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .modalTitle {
+    margin: 0;
+  }
+
+  .modalBody {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid rgba($color: #eee, $alpha: 1);
+    border-bottom: 1px solid rgba($color: #eee, $alpha: 1);
+  }
+
+  .profile {
+    border-radius: 100%;
+    width: 7rem;
+    height: 7rem;
+  }
+}

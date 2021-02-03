@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shoppass",
+  "private_key_id": "46305571ba31ee5f648132ef81bda87a68f86b97",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQGrKlqe5W41ZN\nFAXJNqXhkr3WDi8heEbvzYUNyy2cnEd4AOD5RCgDbAVLxXJPy763I0rgNoRULBMN\nVZXF70gcEyhIqZHHAIcJmMx2MKyc2chLJUU49zndga8iB+XprNGWPhhvTnverLCg\nQILyCcsYIrYxb9MNRxkzpMJoj1/PVZPCHyxzIqD+oUSvy2rR2bzxNCEfNuzQ8R4T\n6V1uFXtOsngPRozA1aIaIXLCCFvEsLekChPCqXF2IwwTbZM0rcQlQSpPB6+t3GvQ\nqXrQZtjxLTB8tv6GQlGixr3YzorEEgR/r5Pi7L4LieU4xD8sqRMoS+QWLa3F4lDL\nn4vO6grNAgMBAAECggEAWFKsdcFMpdXw39/aoM6v0rA8H+h/Ol5ZBRgeG3+bSTfO\n4XDGCyVRMjqbeNBBNvrLY+D3u3eH7E2UfHlRiuOGoFvFIinN9D8WEQ2n4ZXA/QU1\njCcyXP4YshmDYhcmDmpJvdF2/265BgYXJLyclutvJjw9RXgnhCAj4xZPaJ9JU65D\nXDUu3Xae9VPMEH5aYEs+iuI5aljw177LPDt3bPT6GihoBl9ssGMLxLlTIHGpW4Wx\nigGh5uc1KsmgZp6Zitm0t5VkcVzEHTtjF+ORHnGSsJ8pKp98DmvLoGIfCUVxzX5g\nsgLB7E8+3a20Yzx6cIe9yaJgglOkXv4n/pGqEoLxJQKBgQDxWzBZMF2h0pkjC4cr\nSlF7mP0TU05nJxezZWjkYQtlL+UP+myxlnnVdDFb3FRVkrGoc1dKXUeL+mDUOt+p\n3lJaSy3Wfvbg6RQU0YzIoEQQPvSpUKBmXz2U60G/O21dyDxebAPSHrj95YW/fZyk\nNLbjwtyKtP+phAfBTFW1/JUpywKBgQDcuwfw/e5KLFQapOqM6Gw47mcTbISpHBRP\nqNEU65ukUNQtxOBOrFgr9qc0/HdBFCOf/C5BNrDyMZjwHpXFGS2S8Y2UV4hSdsbh\n9c0VkbKUsZPzMpk035JhlJzBLTp99UoCS0QfzLbIFS/IB3H0nxLiAiKUfQBEmnrv\nPtj0n+nqxwKBgC88I3gxCQIUjzfWl7uXLd88j7rqgNubQP4xCJg5jdtdxjycTA1t\nX6awuMA7nJ2que43tIuvOcNhWvXuF7vM8N0O/YePDY3yz6VLZXwWMXvkdkl0qA+g\n8BJnAFUGsl66Q2ZPSWgj7xxxgP16/d79GhX1Guhih+6LEmF4KQYWyrKFAoGAGmAC\n3+oHyjcnyZNBL5sqK1dZW7nQ1EA1sRsT+LL6gxThdaKbxurTElXDvxIX0d/tLdW9\nVS+KzzXb931AGjAbAP76EuqusGPe+escGWKyexAJBLtcETRR0nUmkfKslZZ0xHdn\n6YDVqmzVq8ov9LH5WKY2qZWSLaBj5iiVVg2xrssCgYEA4btWQ/JKUIS26Xb9Q06q\nvpcKCyu+RTmHHlp7E7X6/judoD/Cd57Qg0bG9Fb8lC02t9yW6WusHbUkvn1c7mdt\nt9YVat371+JKjRZUscWsXShzEOt9qHHyl+ErA1j0dRAjz1LzvSSuJUy02RsEfhAX\n8A7jlKGND8KfZK4prWiBctI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-woo0f@shoppass.iam.gserviceaccount.com",
+  "client_id": "107582852612292915565",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-woo0f%40shoppass.iam.gserviceaccount.com"
+}

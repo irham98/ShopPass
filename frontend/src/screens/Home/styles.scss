@@ -1,0 +1,26 @@
+:local {
+  .home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50%;
+  }
+
+  .homeItem {
+    font-size: 2rem;
+  }
+
+  .option {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+  }
+
+  .icon {
+    height: 3rem;
+    width: 3rem;
+    margin-right: 2rem;
+  }
+}

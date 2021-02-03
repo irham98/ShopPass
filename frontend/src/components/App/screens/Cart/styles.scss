@@ -1,0 +1,92 @@
+:local {
+  .inputItemSearch {
+    margin-right: 10px;
+  }
+
+  .searchResults {
+    font-size: 0.875rem;
+  }
+
+  .itemDetailContainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .itemImage {
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .itemName {
+    margin: 10px 0 15px;
+    font-size: medium;
+  }
+
+  .itemPrice {
+    font-size: medium;
+    font-weight: bold;
+    color: red;
+  }
+
+  .totalPrice {
+    font-size: large;
+    font-weight: bold;
+    color: red;
+  }
+
+  .checkout {
+    text-align: right;
+    margin-top: 5rem;
+  }
+
+  .checkoutContainer {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .checkoutButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+  }
+
+  .modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba($color: #ffff, $alpha: 0.5);
+    z-index: 20;
+  }
+
+  .modalContent {
+    background-color: white;
+  }
+
+  .modalHeader,
+  .modalFooter {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .modalTitle {
+    margin: 0;
+  }
+
+  .modalBody {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid rgba($color: #eee, $alpha: 1);
+    border-bottom: 1px solid rgba($color: #eee, $alpha: 1);
+  }
+}

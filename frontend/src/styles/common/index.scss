@@ -1,0 +1,9 @@
+:global {
+  @import 'vendors/normalize';
+
+  @import 'common';
+
+  .bootstrap-scoped {
+    @import 'node_modules/bootstrap/dist/css/bootstrap';
+  }
+}
